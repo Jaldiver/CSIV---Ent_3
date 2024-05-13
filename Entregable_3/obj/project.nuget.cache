@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "qGAP6Yj+Q0Ad2Xa4t87E6KE4Wf012SfwvW4ecdpGpnuojOSCRs2v0gxgm8RedTNpkV1gH+8BWHOzBrD8892qcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jaldiver\\Downloads\\Entregable_3\\Entregable_3\\TodoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jaldiver\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\7.0.17\\microsoft.aspnetcore.diagnostics.entityframeworkcore.7.0.17.nupkg.sha512",
+    "C:\\Users\\Jaldiver\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.17\\microsoft.entityframeworkcore.7.0.17.nupkg.sha512",
+    "C:\\Users\\Jaldiver\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.17\\microsoft.entityframeworkcore.abstractions.7.0.17.nupkg.sha512",
+    "C:\\Users\\Jaldiver\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.17\\microsoft.entityframeworkcore.analyzers.7.0.17.nupkg.sha512",
+    "C:\\Users\\Jaldiver\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.17\\microsoft.entityframeworkcore.inmemory.7.0.17.nupkg.sha512",
+    "C:\\Users\\Jaldiver\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.17\\microsoft.entityframeworkcore.relational.7.0.17.nupkg.sha512",
+    "C:\\Users\\Jaldiver\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jaldiver\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jaldiver\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jaldiver\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jaldiver\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jaldiver\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jaldiver\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jaldiver\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jaldiver\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
